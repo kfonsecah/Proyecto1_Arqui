@@ -1128,6 +1128,12 @@
 		<lc:PinCount>4</lc:PinCount>
 		<lc:Clockwise>True</lc:Clockwise>
 	</lc:Splitter>
+	<lc:Splitter>
+		<lc:SplitterId>fad88f52-0032-4341-a85c-510296c55a0b</lc:SplitterId>
+		<lc:BitWidth>3</lc:BitWidth>
+		<lc:PinCount>3</lc:PinCount>
+		<lc:Clockwise>True</lc:Clockwise>
+	</lc:Splitter>
 	<lc:CircuitSymbol>
 		<lc:CircuitSymbolId>f51ccac3-f1b8-4d1d-b1c5-0a65e8f17075</lc:CircuitSymbolId>
 		<lc:CircuitId>02df2612-c2ef-4581-861f-088aa631c860</lc:CircuitId>
@@ -3623,11 +3629,59 @@
 		<lc:Rotation>Left</lc:Rotation>
 	</lc:CircuitSymbol>
 	<lc:CircuitSymbol>
-		<lc:CircuitSymbolId>60234d5f-1064-4aa9-acde-f057ab4a8dce</lc:CircuitSymbolId>
+		<lc:CircuitSymbolId>4b85619b-46b5-4573-9bf7-0815429909c0</lc:CircuitSymbolId>
 		<lc:CircuitId>f7189b46-515a-4c33-830c-aae2133c703c</lc:CircuitId>
 		<lc:LogicalCircuitId>aaa99b6d-6ea4-4fc8-95c4-019cff53b5ee</lc:LogicalCircuitId>
-		<lc:X>83</lc:X>
-		<lc:Y>111</lc:Y>
+		<lc:X>74</lc:X>
+		<lc:Y>98</lc:Y>
+	</lc:CircuitSymbol>
+	<lc:CircuitSymbol>
+		<lc:CircuitSymbolId>6e1d46be-326a-4857-b1b1-64afd022b745</lc:CircuitSymbolId>
+		<lc:CircuitId>00000000-0000-0000-0000-000000040201</lc:CircuitId>
+		<lc:LogicalCircuitId>aaa99b6d-6ea4-4fc8-95c4-019cff53b5ee</lc:LogicalCircuitId>
+		<lc:X>74</lc:X>
+		<lc:Y>114</lc:Y>
+		<lc:Rotation>Right</lc:Rotation>
+	</lc:CircuitSymbol>
+	<lc:CircuitSymbol>
+		<lc:CircuitSymbolId>c68b8395-1e16-45b1-8496-b84f8f7347b5</lc:CircuitSymbolId>
+		<lc:CircuitId>00000000-0000-0000-0000-000000040201</lc:CircuitId>
+		<lc:LogicalCircuitId>aaa99b6d-6ea4-4fc8-95c4-019cff53b5ee</lc:LogicalCircuitId>
+		<lc:X>74</lc:X>
+		<lc:Y>112</lc:Y>
+		<lc:Rotation>Left</lc:Rotation>
+	</lc:CircuitSymbol>
+	<lc:CircuitSymbol>
+		<lc:CircuitSymbolId>b253e702-057d-4552-b924-5a188e84e208</lc:CircuitSymbolId>
+		<lc:CircuitId>00000000-0000-0000-0000-000000040201</lc:CircuitId>
+		<lc:LogicalCircuitId>aaa99b6d-6ea4-4fc8-95c4-019cff53b5ee</lc:LogicalCircuitId>
+		<lc:X>82</lc:X>
+		<lc:Y>114</lc:Y>
+		<lc:Rotation>Right</lc:Rotation>
+	</lc:CircuitSymbol>
+	<lc:CircuitSymbol>
+		<lc:CircuitSymbolId>ccd3a6d0-ff9a-4ab9-a2fe-98c66d90fa18</lc:CircuitSymbolId>
+		<lc:CircuitId>00000000-0000-0000-0000-000000040201</lc:CircuitId>
+		<lc:LogicalCircuitId>aaa99b6d-6ea4-4fc8-95c4-019cff53b5ee</lc:LogicalCircuitId>
+		<lc:X>82</lc:X>
+		<lc:Y>112</lc:Y>
+		<lc:Rotation>Left</lc:Rotation>
+	</lc:CircuitSymbol>
+	<lc:CircuitSymbol>
+		<lc:CircuitSymbolId>55481ccb-7f70-402a-9ca1-9bd3ad78e743</lc:CircuitSymbolId>
+		<lc:CircuitId>fad88f52-0032-4341-a85c-510296c55a0b</lc:CircuitId>
+		<lc:LogicalCircuitId>aaa99b6d-6ea4-4fc8-95c4-019cff53b5ee</lc:LogicalCircuitId>
+		<lc:X>79</lc:X>
+		<lc:Y>114</lc:Y>
+		<lc:Rotation>Left</lc:Rotation>
+	</lc:CircuitSymbol>
+	<lc:CircuitSymbol>
+		<lc:CircuitSymbolId>a696ba04-16d1-4f31-b7b5-828dea67d027</lc:CircuitSymbolId>
+		<lc:CircuitId>00000000-0000-0000-0000-000000040201</lc:CircuitId>
+		<lc:LogicalCircuitId>aaa99b6d-6ea4-4fc8-95c4-019cff53b5ee</lc:LogicalCircuitId>
+		<lc:X>78</lc:X>
+		<lc:Y>103</lc:Y>
+		<lc:Rotation>Left</lc:Rotation>
 	</lc:CircuitSymbol>
 	<lc:Wire>
 		<lc:WireId>774cdfaa-1e69-4de2-9c4c-b4ebf5a9aba6</lc:WireId>
@@ -16748,6 +16802,30 @@
 		<lc:Y1>65</lc:Y1>
 		<lc:X2>56</lc:X2>
 		<lc:Y2>67</lc:Y2>
+	</lc:Wire>
+	<lc:Wire>
+		<lc:WireId>dc725a34-97fc-403e-9f16-30024591f45b</lc:WireId>
+		<lc:LogicalCircuitId>aaa99b6d-6ea4-4fc8-95c4-019cff53b5ee</lc:LogicalCircuitId>
+		<lc:X1>78</lc:X1>
+		<lc:Y1>115</lc:Y1>
+		<lc:X2>78</lc:X2>
+		<lc:Y2>106</lc:Y2>
+	</lc:Wire>
+	<lc:Wire>
+		<lc:WireId>f9f71330-453b-44f9-88db-0cb7507ae038</lc:WireId>
+		<lc:LogicalCircuitId>aaa99b6d-6ea4-4fc8-95c4-019cff53b5ee</lc:LogicalCircuitId>
+		<lc:X1>78</lc:X1>
+		<lc:Y1>106</lc:Y1>
+		<lc:X2>80</lc:X2>
+		<lc:Y2>106</lc:Y2>
+	</lc:Wire>
+	<lc:Wire>
+		<lc:WireId>c0c9c665-8e9a-47bb-85d8-0001dc918d5e</lc:WireId>
+		<lc:LogicalCircuitId>aaa99b6d-6ea4-4fc8-95c4-019cff53b5ee</lc:LogicalCircuitId>
+		<lc:X1>80</lc:X1>
+		<lc:Y1>106</lc:Y1>
+		<lc:X2>80</lc:X2>
+		<lc:Y2>115</lc:Y2>
 	</lc:Wire>
 	<lc:TextNote>
 		<lc:TextNoteId>087b6b22-6934-439f-bb82-c85d3484c44b</lc:TextNoteId>
