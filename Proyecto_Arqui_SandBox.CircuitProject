@@ -1717,7 +1717,6 @@
 		<lc:CircuitButtonId>a3ae3993-ee61-47b0-b5e4-247cda7efb53</lc:CircuitButtonId>
 		<lc:Notation>GAS</lc:Notation>
 		<lc:KeyCode>66</lc:KeyCode>
-		<lc:IsToggle>True</lc:IsToggle>
 		<lc:PinSide>Top</lc:PinSide>
 		<lc:Width>6</lc:Width>
 	</lc:CircuitButton>
