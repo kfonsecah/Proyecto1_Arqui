@@ -3,7 +3,7 @@
 	<lc:Project>
 		<lc:ProjectId>9bf52f00-8d0a-4927-ad77-3e38e2b68796</lc:ProjectId>
 		<lc:Zoom>0.6406367041198535</lc:Zoom>
-		<lc:Frequency>50</lc:Frequency>
+		<lc:Frequency>17</lc:Frequency>
 		<lc:LogicalCircuitId>a154af67-bc26-4638-a042-55e9ae26b0aa</lc:LogicalCircuitId>
 	</lc:Project>
 	<lc:CollapsedCategory>
@@ -54739,7 +54739,7 @@
 		<lc:Y>19</lc:Y>
 		<lc:Width>28</lc:Width>
 		<lc:Height>7</lc:Height>
-		<lc:Note>&lt;FlowDocument TextAlignment="Left" PagePadding="5,0,5,0" AllowDrop="True" NumberSubstitution.CultureSource="User" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;&lt;Paragraph&gt;&lt;Run FontWeight="Bold" FontSize="28.5" xml:lang="es-mx"&gt;K&lt;/Run&gt;&lt;Run FontWeight="Bold" FontSize="28.5"&gt;r&lt;/Run&gt;&lt;Run FontWeight="Bold" FontSize="28.5" xml:lang="es-mx" xml:space="preserve"&gt;endall &lt;/Run&gt;&lt;Run FontWeight="Bold" FontSize="28.5"&gt;Pingaseca&lt;/Run&gt;&lt;Run FontWeight="Bold" FontSize="28.5" xml:lang="es-mx" xml:space="preserve"&gt; &lt;/Run&gt;&lt;Run FontWeight="Bold" FontSize="28.5"&gt;MIDalgo&lt;/Run&gt;&lt;Run FontWeight="Bold" FontSize="28.5" xml:lang="es-mx" xml:space="preserve"&gt; &lt;/Run&gt;&lt;LineBreak /&gt;&lt;Run FontWeight="Bold" FontSize="28.5" xml:lang="es-mx" xml:space="preserve"&gt;Matteo Vargas &lt;/Run&gt;&lt;Run FontWeight="Bold" FontSize="28.5"&gt;GOD&lt;/Run&gt;&lt;Run FontWeight="Bold" FontSize="28.5" xml:lang="es-mx"&gt;sada&lt;/Run&gt;&lt;LineBreak /&gt;&lt;LineBreak /&gt;&lt;Run FontWeight="Bold" FontSize="28.5" xml:lang="es-mx" xml:space="preserve"&gt;Proyecto #1 Arquitectura de Computadores &lt;/Run&gt;&lt;/Paragraph&gt;&lt;/FlowDocument&gt;</lc:Note>
+		<lc:Note>&lt;FlowDocument TextAlignment="Left" PagePadding="5,0,5,0" AllowDrop="True" NumberSubstitution.CultureSource="User" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"&gt;&lt;Paragraph&gt;&lt;Run FontWeight="Bold" FontSize="28.5" xml:lang="es-mx"&gt;K&lt;/Run&gt;&lt;Run FontWeight="Bold" FontSize="28.5"&gt;r&lt;/Run&gt;&lt;Run FontWeight="Bold" FontSize="28.5" xml:lang="es-mx" xml:space="preserve"&gt;endall &lt;/Run&gt;&lt;Run FontWeight="Bold" FontSize="28.5"&gt;Pingaseca&lt;/Run&gt;&lt;Run FontWeight="Bold" FontSize="28.5" xml:lang="es-mx" xml:space="preserve"&gt; &lt;/Run&gt;&lt;Run FontWeight="Bold" FontSize="28.5"&gt;MIDalgo&lt;/Run&gt;&lt;Run FontWeight="Bold" FontSize="28.5" xml:lang="es-mx" xml:space="preserve"&gt; &lt;/Run&gt;&lt;LineBreak /&gt;&lt;Run FontWeight="Bold" FontSize="28.5" xml:lang="es-mx"&gt;Matteo Verga Chupada&lt;/Run&gt;&lt;LineBreak /&gt;&lt;LineBreak /&gt;&lt;Run FontWeight="Bold" FontSize="28.5" xml:lang="es-mx" xml:space="preserve"&gt;Proyecto #1 Arquitectura de Computadores &lt;/Run&gt;&lt;/Paragraph&gt;&lt;/FlowDocument&gt;</lc:Note>
 	</lc:TextNote>
 	<lc:TextNote>
 		<lc:TextNoteId>ffe3fdb7-3fbd-4681-bad6-a349a6c01d69</lc:TextNoteId>
